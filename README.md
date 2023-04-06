@@ -9,7 +9,7 @@ Michael Wang (@isVoid) and Thomson Comer (@thomcom)
 
 [NYC Taxi Zones Shapefile](https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip)
 
-[NYC 2015 Taxi Pickups and Dropoffs]()
+[NYC 2015 Taxi Pickups and Dropoffs](https://rapidsai-data.s3.us-east-2.amazonaws.com/viz-data/nyc_taxi.tar.gz)
 
 ## Notebook
 
